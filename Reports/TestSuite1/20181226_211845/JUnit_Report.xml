@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TestSuite1" time="41" tests="1" failures="0" errors="0">
+   <testsuite name="TestSuite1" tests="1" failures="0" errors="0" time="41" timestamp="2018-12-26 21:19:01" hostname="42HW170006 - DESKTOP-O8DPV8V" id="Test Suites/TestSuite1">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\42HW170006\\git\\TestGitKatalon2\\Reports\\TestSuite1\\20181226_211845"/>
+         <property name="logFiles" value="C:\\Users\\42HW170006\\git\\TestGitKatalon2\\Reports\\TestSuite1\\20181226_211845\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="42HW170006 - DESKTOP-O8DPV8V"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.10.0.1"/>
+         <property name="browser" value="Chrome 71.0.3578.98"/>
+         <property name="hostAddress" value="192.168.43.91"/>
+         <property name="sessionId" value="73931955416222eb668558357445d813"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/tc by TestGitKatalon 2" classname="Test Cases/tc by TestGitKatalon 2" status="PASSED">
+         <system-out><![CDATA[2018-12-26 21:19:02 - [TEST_CASE][PASSED] - Test Cases/tc by TestGitKatalon 2: Test Cases/tc by TestGitKatalon 2
+
+2018-12-26 21:19:03 - [TEST_STEP][PASSED] - openBrowser("https://www.katalon.com"): Browser is opened with url: 'https://www.katalon.com'
+
+2018-12-26 21:19:04 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2018-12-26 21:19:04 - [MESSAGE][INFO] - Action delay is set to 0 seconds
+
+2018-12-26 21:19:42 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.katalon.com'
+
+2018-12-26 21:19:42 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2018-12-26 21:19:43 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-12-26 21:19:01 - [TEST_SUITE][PASSED] - TestSuite1: Test Cases/tc by TestGitKatalon 2]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

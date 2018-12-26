@@ -1,0 +1,6 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TestSuite1,Chrome 71.0.3578.98,,2018-12-26 21:19:01,2018-12-26 21:19:43,"41,332s",PASSED
+,,,,,,
+Test Cases/tc by TestGitKatalon 2,Chrome 71.0.3578.98,,2018-12-26 21:19:02,2018-12-26 21:19:43,"40,680s",PASSED
+"openBrowser(""https://www.katalon.com"")",Chrome 71.0.3578.98,,2018-12-26 21:19:03,2018-12-26 21:19:42,"38,766s",PASSED
+closeBrowser(),Chrome 71.0.3578.98,,2018-12-26 21:19:42,2018-12-26 21:19:43,"1,083s",PASSED
