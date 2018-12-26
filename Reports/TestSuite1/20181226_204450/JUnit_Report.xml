@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TestSuite1" time="79" tests="2" failures="0" errors="0">
+   <testsuite name="TestSuite1" tests="2" failures="0" errors="0" time="79" timestamp="2018-12-26 20:45:06" hostname="42HW170006 - DESKTOP-O8DPV8V" id="Test Suites/TestSuite1">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\42HW170006\\git\\TestGitKatalon2\\Reports\\TestSuite1\\20181226_204450"/>
+         <property name="logFiles" value="C:\\Users\\42HW170006\\git\\TestGitKatalon2\\Reports\\TestSuite1\\20181226_204450\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="42HW170006 - DESKTOP-O8DPV8V"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.10.0.1"/>
+         <property name="browser" value="Chrome 71.0.3578.98"/>
+         <property name="hostAddress" value="192.168.43.91"/>
+         <property name="sessionId" value="cfd5549806015787f3073c306a7a2812"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/tc by TestGitKatalaon2_" classname="Test Cases/tc by TestGitKatalaon2_" status="PASSED">
+         <system-out><![CDATA[2018-12-26 20:45:07 - [TEST_CASE][PASSED] - Test Cases/tc by TestGitKatalaon2_: Test Cases/tc by TestGitKatalaon2_
+
+2018-12-26 20:45:08 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2018-12-26 20:45:09 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2018-12-26 20:45:09 - [MESSAGE][INFO] - Action delay is set to 0 seconds
+
+2018-12-26 20:45:43 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-12-26 20:45:43 - [TEST_STEP][PASSED] - navigateToUrl("lifecharger.org"): Navigate to 'http://lifecharger.org' successfully
+
+2018-12-26 20:45:58 - [MESSAGE][PASSED] - Navigate to 'http://lifecharger.org' successfully
+
+2018-12-26 20:45:58 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2018-12-26 20:45:59 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/tc by TestGitKatalon 2" classname="Test Cases/tc by TestGitKatalon 2" status="PASSED">
+         <system-out><![CDATA[2018-12-26 20:46:00 - [TEST_CASE][PASSED] - Test Cases/tc by TestGitKatalon 2: Test Cases/tc by TestGitKatalon 2
+
+2018-12-26 20:46:00 - [TEST_STEP][PASSED] - openBrowser("https://www.katalon.com"): Browser is opened with url: 'https://www.katalon.com'
+
+2018-12-26 20:46:00 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2018-12-26 20:46:24 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.katalon.com'
+
+2018-12-26 20:46:24 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2018-12-26 20:46:26 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-12-26 20:45:06 - [TEST_SUITE][PASSED] - TestSuite1: Test Cases/tc by TestGitKatalon 2]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

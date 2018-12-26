@@ -10,4 +10,16 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <testSuiteGuid>4c345ab2-ad5c-49a7-8f15-701ecbf76e2d</testSuiteGuid>
+   <testCaseLink>
+      <guid>ef5185c2-b740-4b41-900d-f50b275f3762</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/tc by TestGitKatalaon2_</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>59c7853c-09f7-4487-ba29-1a7e4e142978</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/tc by TestGitKatalon 2</testCaseId>
+   </testCaseLink>
 </TestSuiteEntity>

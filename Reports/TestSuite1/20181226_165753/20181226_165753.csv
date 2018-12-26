@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TestSuite1,Chrome 71.0.3578.98,,2018-12-26 16:58:01,2018-12-26 16:59:05,"1m - 3,388s",PASSED
+,,,,,,
+Test Cases/tc by TestGitKatalaon2_,Chrome 71.0.3578.98,,2018-12-26 16:58:02,2018-12-26 16:59:04,"1m - 2,664s",PASSED
+"openBrowser("""")",Chrome 71.0.3578.98,,2018-12-26 16:58:02,2018-12-26 16:58:36,"33,780s",PASSED
+"navigateToUrl(""lifecharger.org"")",Chrome 71.0.3578.98,,2018-12-26 16:58:36,2018-12-26 16:59:03,"27,102s",PASSED
+closeBrowser(),Chrome 71.0.3578.98,,2018-12-26 16:59:03,2018-12-26 16:59:04,"0,976s",PASSED
